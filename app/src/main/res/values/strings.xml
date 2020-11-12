@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CryptChat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Username">Username</string>
+    <string name="user_id">user_id</string>
+    <string name="User_unique_ID">User unique ID:</string>
+    <string name="hint">Copy this ID and send it to your contacts to start chatting!</string>
+    <string name="TextView">TextView</string>
+    <string name="Sign_in">Sign In</string>
+    <string name="Your_username">Your username</string>
+    <string name="Your_email_address">Your email address</string>
+    <string name="Your_password">Your password</string>
+    <string name="dont_have_account_register">Don\'t have an Account? Register now</string>
+    <string name="hi_there">Hi there! Nice to see you again!</string>
+    <string name="CryptChat">CryptChat</string>
+    <string name="type_message">Type a message…</string>
+    <string name="Register">Register</string>
+    <string name="account_signin">Have an Account? Sign In</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="hello">Hello!</string>
+    <string name="seen">Seen</string>
+    <string name="delivered">Delivered</string>
+    <string name="add_contact">Search for a Contact to add</string>
+    <string name="view_media">View photo</string>
+
+
+</resources>
