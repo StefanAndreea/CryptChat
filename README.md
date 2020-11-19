@@ -16,7 +16,7 @@ By using this type of application, users can communicate through a secure channe
 <h3>Technologies used</h3>
 
 <p align="left" width="100%">
-    <img width="80%" src="https://i.imgur.com/EsHsysz.png"> 
+    <img width="80%" src="https://i.imgur.com/faFS9UL.png"> 
 </p>
 
 <h4>Backend</h4>
